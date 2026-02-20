@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+__pycache__/
+
+*.pyc
+*.pth
+*.pt
+*.ckpt
+*.log
+
+outputs/
+runs/
+wandb/
